@@ -10,4 +10,4 @@ Hola soy Raul Aliaga, un apasionado en el desarrollo de aplicaciones móviles IO
   - [GitHub](https://github.com/Ra0l "Red Social 2")
 
 ## Mis notas de lectura:
-  - [Mindset](./mindset,md)
+  - [Mindset](./mindset.md)
