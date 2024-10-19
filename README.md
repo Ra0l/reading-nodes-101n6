@@ -1,2 +1,9 @@
 # reading-nodes-101n6
-Esta es la repo que usare para el curso 101n6 de Enter Tech
+# title
+## title2
+### title3
+#### title4
+##### title5
+###### title6
+
+Hola me llamo Raul Aliaga
