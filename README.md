@@ -6,8 +6,8 @@
 Hola soy Raul Aliaga, un apasionado en el desarrollo de aplicaciones móviles IOS, SWIFT, trabajando con metodologías ágiles. Destacado colaborador orientado a resultados, apasionado a los desafíos y resolución de problemas. Dispuesto a plantear ideas innovadoras y trabajar de manera cooperativa.
 
 ## Información de contacto
-  - [Linkedin](https://www.linkedin.com/in/raul-aliaga/)
-  - [GitHub](https://github.com/Ra0l)
+  - [Linkedin](https://www.linkedin.com/in/raul-aliaga/ "Red Social 1")
+  - [GitHub](https://github.com/Ra0l "Red Social 2")
 
 ## Mis notas de lectura:
   - [Mindset](./mindset,md)
