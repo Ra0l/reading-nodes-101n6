@@ -16,4 +16,7 @@
 
 ## ¿Qué comando usarías en la terminal para listar todos los archivos, incluidos los archivos ocultos, en un directorio de Linux o macOS? Explica qué significan los parámetros utilizados en el comando.
 
-<p> El comando para listar todos los archivos, incluidos los ocultos, es ls -a. -a muestra todos los archivos, incluso aquellos que empiezan con un punto (archivos ocultos).</p>
+<p> El comando para listar todos los archivos, incluidos los ocultos, es ls -a. -a muestra todos los archivos, incluso aquellos que empiezan con un punto (archivos ocultos).
+    El comando ls -l lista los archivos y directorios en formato largo, mostrando información detallada. Incluye los permisos del archivo, el número de enlaces, el propietario, el grupo,   el tamaño, la fecha de modificación y el nombre del archivo o directorio.
+</p>
+
