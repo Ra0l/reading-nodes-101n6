@@ -23,3 +23,4 @@ Hola soy Raul Aliaga, un apasionado en el desarrollo de aplicaciones móviles IO
 ## Mis notas de lectura:
   - [Mindset](./mindset.md)
   - [Read06](./read06.md)
+  - [Read07](./read07.md)
