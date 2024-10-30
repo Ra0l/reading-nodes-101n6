@@ -21,12 +21,6 @@ Hola soy Raul Aliaga, un apasionado en el desarrollo de aplicaciones móviles IO
 - [Linkedin](https://www.linkedin.com/in/raul-aliaga/ "Mi Linkedin")
 - [GitHub](https://github.com/Ra0l "Mi GitHub")
 
-## Mis notas de lectura:
-
-- [Mindset](./mindset.md)
-- [Read06](./read06.md)
-- [Read07](./read07.md)
-
 ## Tabla de contenido
 
 # 101
